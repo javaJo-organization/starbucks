@@ -11,6 +11,8 @@ public class Main {
         System.out.println("암어퀸카암어퀸카");
 
 
+        System.out.printf("자 자 파이팅!!!!!");
+
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
